@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonColor">#FF292828</color>
+    <color name="buttonColorSymbol">#2D2B30</color>
+    <color name="textColor">#fff</color>
+    <color name="purple_secondary">#635475</color>
+    <color name="gray_background_screen">#B5B5B5</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
